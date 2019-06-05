@@ -1,0 +1,9 @@
+#headder{
+    text-align: center;
+    background-color: rgb(0, 0, 200);
+    color: white;
+}
+#headder hr{
+    background-color: green;
+    height: 10px;
+}
